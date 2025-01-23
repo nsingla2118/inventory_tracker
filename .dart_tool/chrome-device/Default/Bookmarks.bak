@@ -1,0 +1,269 @@
+{
+   "checksum": "fbf2dea41195c22d05be46c7baadf665",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13274655761553084",
+            "date_last_used": "0",
+            "guid": "443b1ed5-00c2-4fb1-9f3b-2cf956e219e8",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13316509441209777",
+            "date_last_used": "0",
+            "guid": "e0cf6e15-2c6e-43af-ad9f-6be4cb4f6b21",
+            "id": "7",
+            "name": "Web Development Course Resources | The App Brewery",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.appbrewery.co/p/web-development-course-resources/",
+            "visit_count": 0
+         }, {
+            "date_added": "13318501547440601",
+            "date_last_used": "0",
+            "guid": "7d449ed3-26e7-4138-abc4-6a7bccf9faeb",
+            "id": "8",
+            "name": "To-Do-list App",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://delicate-arithmetic-ddd747.netlify.app/",
+            "visit_count": 0
+         }, {
+            "date_added": "13319711476919200",
+            "date_last_used": "13348911556887587",
+            "guid": "ff5a1a42-0754-4b52-b723-ec607b974010",
+            "id": "9",
+            "name": "RYO IRAGO",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ryo-irago.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13325057681916888",
+            "date_last_used": "0",
+            "guid": "f8bcb34f-37f7-4d0c-8062-f9bfbd969024",
+            "id": "10",
+            "name": "UPPSC Syllabus 202Know the new UPPSC Syllabus | Dowbload PDF & Know UPPPCS Exam Pattern for 2023",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://byjus.com/free-ias-prep/uppsc-syllabus-pcs-exam-pattern/",
+            "visit_count": 0
+         }, {
+            "date_added": "13325057857742487",
+            "date_last_used": "0",
+            "guid": "8ae4ccd6-0242-4d63-93a0-606fffc2637a",
+            "id": "11",
+            "name": "PPSC PCS Syllabus 2023: Important Topics, Books, Tips & More",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://testbook.com/punjab-civil-service-exam/syllabus",
+            "visit_count": 0
+         }, {
+            "date_added": "13325070820898798",
+            "date_last_used": "0",
+            "guid": "5144379b-82c6-41b5-92bd-b6b69201ae8c",
+            "id": "12",
+            "name": "Medieval History of India [NCERT Notes] for UPSC Exam Preparation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://byjus.com/free-ias-prep/ncert-medieval-history-notes-for-upsc-exams/",
+            "visit_count": 0
+         }, {
+            "date_added": "13325135921132562",
+            "date_last_used": "0",
+            "guid": "2793f939-3f6d-4e32-a1db-ce9feada9cd9",
+            "id": "13",
+            "name": "Fall in love with these must-watch upcoming romance anime of April 2023",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.msn.com/en-in/entertainment/other/fall-in-love-with-these-must-watch-upcoming-romance-anime-of-april-2023/ar-AA19fxJY?ocid=msedgntp&cvid=25124d50436f4f67b30ed1b698a1fc92&ei=55",
+            "visit_count": 0
+         }, {
+            "date_added": "13327565873995700",
+            "date_last_used": "0",
+            "guid": "14e87841-adfe-4b0c-86d9-a745edd06284",
+            "id": "14",
+            "name": "INTERNSHIP REPORT ON HR PRACTICES IN RENATA LIMITED | tareq hasan - Academia.edu",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.academia.edu/27280343/INTERNSHIP_REPORT_ON_HR_PRACTICES_IN_RENATA_LIMITED",
+            "visit_count": 0
+         }, {
+            "date_added": "13327848313072456",
+            "date_last_used": "0",
+            "guid": "b3bd6cbc-e3df-4399-ae28-b9b006948895",
+            "id": "15",
+            "name": "Study Notes Portal",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://notes-app-real-time.netlify.app/",
+            "visit_count": 0
+         }, {
+            "date_added": "13327848341850486",
+            "date_last_used": "13328638749002196",
+            "guid": "5b9d76fe-f5d7-4c07-b94a-81ca9972f1e6",
+            "id": "16",
+            "name": "GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13328178403782730",
+            "date_last_used": "0",
+            "guid": "273fecd3-9408-42f6-96c0-1d3fcb176a50",
+            "id": "17",
+            "name": "Internships Viva Schedule MAY-2023",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeebnMUxvOG8zBOXxnEIAfGRfg9lbYFxhv8-UTVeNqBnS_uHw/formResponse",
+            "visit_count": 0
+         }, {
+            "date_added": "13328627611511266",
+            "date_last_used": "0",
+            "guid": "e3b1dddd-c89a-4638-a05f-58a20d8f8e9c",
+            "id": "18",
+            "name": "Gerich Restaurant",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gericht-restaurant-n.netlify.app/",
+            "visit_count": 0
+         }, {
+            "date_added": "13332847177778774",
+            "date_last_used": "0",
+            "guid": "ded82dab-474d-4479-ab5c-fa447051bd4a",
+            "id": "19",
+            "name": "The 100 best nonfiction books of all time: the full list | Books | The Guardian",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list",
+            "visit_count": 0
+         }, {
+            "date_added": "13332847414697968",
+            "date_last_used": "0",
+            "guid": "549f306c-e64a-4186-8370-b49b5340891f",
+            "id": "20",
+            "name": "Please Wait for few Moments",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://oceanofpdf.com/please-wait-for-few-moments-6/",
+            "visit_count": 0
+         }, {
+            "date_added": "13333454626588902",
+            "date_last_used": "0",
+            "guid": "10461cba-0f88-49ac-8726-98b930be28d8",
+            "id": "21",
+            "name": "You searched for the power of - Page 2 of 146 - OceanofPDF",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://oceanofpdf.com/page/2/?s=the+power+of",
+            "visit_count": 0
+         }, {
+            "date_added": "13334412119076014",
+            "date_last_used": "0",
+            "guid": "dba555e8-ab92-452a-91a4-f6f2969f25b0",
+            "id": "22",
+            "name": "Indian Polity Syllabus for UPSC Prelims & Mains - Download PDF!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://testbook.com/ias-preparation/polity-syllabus-for-upsc",
+            "visit_count": 0
+         }, {
+            "date_added": "13341921804619061",
+            "date_last_used": "0",
+            "guid": "1b90434f-cb5d-432d-b8a5-05b83b5c01bc",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Polity Syllabus For UPSC Prelims And Mains (with Micro Topics)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lotusarise.com/polity-syllabus-for-upsc/",
+            "visit_count": 0
+         }, {
+            "date_added": "13352629220403754",
+            "date_last_used": "0",
+            "guid": "6e100580-bf85-460f-a1f8-633566aa8fe0",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download file – your conversion was successful",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.img2go.com/result#j=a3f3cd49-0bc5-4379-b723-38c3c3da2b1d",
+            "visit_count": 0
+         }, {
+            "date_added": "13352632289375588",
+            "date_last_used": "0",
+            "guid": "dda982a6-9e54-4ba0-bef3-93f2ad9dbd85",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download file – your conversion was successful",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.img2go.com/result#j=e3f094d2-f751-4fcb-8fad-a25fc033fe70",
+            "visit_count": 0
+         } ],
+         "date_added": "13377249833089968",
+         "date_last_used": "0",
+         "date_modified": "13352632289375588",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13377249833089971",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13377249833089973",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCIqR6fWSAQAAEgAqGFVQNW9DSWZwbmRjV2hGQXZXUDJPN1E9PUgDoAYHErABCBgSqwEKHHZqWGduc0NrLzI2cUtqemRnN1JtVUdrMVZobz0SJDZlMTAwNTgwLWJmODUtNDYwZi1hMWY4LTYzMzU2NmFhOGZlMBgAIAAoADCA846w2zE4qPWOsNsxQKj1jrDbMUocSU9hT01pdytiVXFJSnZwMG9iSGRwVzVFMG1VPVoiIiD////UYjd0eWFSNS9EYkNkWXNJdGpWcXNXYnFpSk84PWX0ujj2wj4CYAUSrwEIFhKqAQocR24zTzBoeVA1OFJJdzJoWnNZYTNLRWVXNjBrPRIkZGJhNTU1ZTgtYWI5Mi00NTJhLTkxYTQtZjZmMjk2OWYyNWIwGAAgACgAMK/Tqce9MTjz/b/BlzFA8/2/wZcxShx4Q0lIQjhPaWZtNGZZN2ZydkRoK0ltKzVjYWs9WiEiH////1BZTmJaQzdhcDg3Y0VqWnAzSDNteWhWMjNzaz1l7rJgEcI+AmAFEq8BCBQSqgEKHE1KekdZK0NTLzNLME0vMmQrbkZpWUorWTdMcz0SJDU0OWYzMDZjLWU2NGEtNDE4Ni04MzcwLWI0OWI1MzQwODkxZhgAIAAoADCSp7HXkTE49qyx15ExQPassdeRMUocTkpnZ1ZIdTJDdjlRWEFMQjdyUGU5Z0lvS2JjPVohIh////4vVUV0c01NK2RFVWhXZzFuV1QreDRCbGhHMm89ZXFtynHCPgJgBRKvAQgTEqoBChw0c3RCa2RKdmgvRE9vL2E2UEo2RUR2clQwUEk9EiRkZWQ4MmRhYi00NzRkLTQ0NzktYWI1Yy1mYTQ0NzA1MWJkNGEYACAAKAAws6Kj15ExOKCNo9eRMUCgjaPXkTFKHDZnS3VHVFd4cXFURXg3SDhzTWZaeXNKNk0xdz1aISIf///9anRpTmRWb1JENFFDcFFHT0tlU215eGFwdEdrPWWuNbR4wj4CYAUSrwEIEhKqAQocM3daeC9HamJzdENzR3dqakdsSFMvcmR4d044PRIkZTNiMWRkZGQtYzg5YS00NjM4LWEwNWYtNThhMjBkOGY4ZTljGAAgACgAMKawm/uBMTjosJv7gTFA6LCb+4ExShxuNnNUVVBkaUQvbXlUM2JhQzJYSk5nWC9Xb0E9WiEiH///+kl2L0dYNDI0aG5iMENZalc1eUtEdHlXbklkYz1lpp/d5sI+AmAFEq8BCBESqgEKHCtZYVRZSy94UWRrWEJwSFNxdjJHZW9WRk42UT0SJDI3M2ZlY2QzLTk0MDgtNDJmNi05NmMwLTFkM2ZjYjE3NmE1MBgAIAAoADC37oGlgDE4/u6BpYAxQP7ugaWAMUocSkFZVHpUMUpUQTBSTmlSTG5pNmd2SkJ1eFdZPVohIh////Q5Z1JCN1N2eHpmaVVkcWtQdDdxSkI2MC9yV289ZaOtHF/CPgJgBRKvAQgQEqoBChxVOVpGMk5KenpVd2h3bGwyMlFENGJpU1NpN0E9EiQ1YjlkNzZmZS1mNWQ3LTRjMDctYjk0YS04MWNhOTk3MmYxZTYYACAAKAAwiaOmr68yOJCw0If/MECQsNCH/zBKHDZUWGd0UlIyeEdYRHpqd2JIRVFEWUVOeEcxWT1aISIf///oaVV1U2ovTXNSemZNbThMRGt1MzNtRmt0L21jPWUVUPmJwj4CYAUSrwEIDxKqAQocRHNFVjZ3MnJxSHF3RHc2Q3FWTFpHcGhDek5VPRIkYjNiZDZjYmMtZTNkZi00Mzk5LWFlMjgtYjliMDA2OTQ4ODk1GAAgACgAMNnOzof/MDjDz86H/zBAw8/Oh/8wShxyeDl3VTlrM3hSeDkxU3pFWjBhYVYyT1lvMXc9WiEiH///0ThNN3Nid09MQ0ZPeEpCZzQ2MW1yU01vUXU3QT1lAAAAAMI+AmAFEq8BCA4SqgEKHEdtNUM0bTZXVGVVNDJlTUliOWh5UVRPSC92WT0SJDE0ZTg3ODQxLWFkZmUtNGIwYy04NmQ5LWE3NDVlZGQwNjI4NBgAIAAoADDk6veA/jA4o+v3gP4wQKPr94D+MEocSUZqcTB3aGZDQ3dzS25MQkpIL0xlY1NSNHBvPVohIh///6IvcXlXYjZnTFhrdk92VUJOK0ZoSkRwY2tMVFk9ZdhVtDTCPgJgBRKwAQgXEqsBChxPeDFBWk9VUVY3K29iSERGVWxJejFKaC9iakk9EiQxYjkwNDM0Zi1jYjVkLTQzMmQtYjhhNS0wNWI4M2I1YzAxYmMYACAAKAAw/9e1vrMxONPbtb6zMUDT27W+szFKHHBlQlRzdFYrQWk5b1RaY012RW9tOHNFVXNHVT1aIiIg////qDFBSlNBbUlaclVYRkh5QzNubjdZYXNJNzBOYz1lp4x+uMI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDlmZGQxZmYyLTJmYmYtNWUwNS1hODRkLTMyMGYwM2FlODJkYRgAIAAoADDql9yZsDA4243D+OsvQNuNw/jrL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKuAQgJEqkBChw4bmZLak15c1JNMW5uUnNFWVAvK3BQTGhZZDA9EiRmZjVhMWE0Mi0wNzU0LTRiNTItYjcyMy1lYzYwN2I5NzQwMTAYACAAKAAwneOzw80xOObl1d/gMEDm5dXf4DBKHFNKYURheVFIOHBZZUVRREttYUIvQ2R6WXVoaz1aICIe//dtM21CYlpkdkoxRW1VMlZkTTMwSXNlZ1FnUGM9ZSxI6vDCPgJgBRKtAQgGEqgBChxvVjN4WFVhTy9KL2NDdk82Q2h6Q1M2dnZPaWc9EiQ0NDNiMWVkNS0wMGMyLTRmYjEtOWYzYi0yY2Y5NTZlMjE5ZTgYACAAKAAw6Jap+9owOMCOtYKfMEDAjrWCnzBKHGtSbTNzSVV4ellGeldHcWh3YXNjck56Uk9Dcz1aHyIdMmoyNzhSbE1lRVc3RHpDYTVudUQ5cXljbHNuND1lmrRM08I+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGIxOTc1Mzg5LTg4MDUtNTkwYS1hMjBmLTVkNzFlMzViYzEwNRgAIAAoADDql9yZsDA4643D+OsvQOuNw/jrL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKtAQgHEqgBChxpR2ZoN2dlUzNLWG9yNkVwck4wZUg5UjJ1SE09EiRlMGNmNmUxNS0yYzZlLTQzYWYtYWQ5Zi02YmU0Y2I0ZjZiMjEYACAAKAAw6Jap+9owOLiO6ejUMEC4juno1DBKHCs5WGN0YmhkZzduOVpMczMyWmw5Y1hra1l4OD1aHyId3nhMZjFwV0U0MnlmcU5KWldZNkNMTlNydktuRT1lXGldS8I+AmAFEq8BCBUSqgEKHGhyVmhDbkxBMlFQSEZzcWc2L0FYYit1dWRLYz0SJDEwNDYxY2JhLTBmODgtNDlhYy04NzI2LTk4YjkzMGJlMjhkOBgAIAAoADCzsJa3mjE41On2+JMxQNTp9viTMUoca0JVcStqT2JBcXRQd2tVMSsxUFFXQ0Zmd1RJPVohIh////9ES0FjLzU4OTNDTk1aeW5kUlhPMTFFRHh5VVk9ZecPSFzCPgJgBRKuAQgNEqkBChxLd0xRZk5mTm9UMmtheHc2MUxOWXhTblpKZ2M9EiQyNzkzZjkzOS0zZjZkLTRlMzItYTFkYi1jZTlmZWFkYTljZDkYACAAKAAwq+Onlc4xOPOAn/r0MEDzgJ/69DBKHEc3Z29tWkx3QStvOEczbzZmb3hYSlFaSlp0UT1aICIe//9ETkFrVWlkblM4SVdyN0paYXBwTkVvM3pwS1U9ZcEXakXCPgJgBRKwAQgZEqsBChwvTmdDeS9iNTQzaVZQeEFnMHN2THI0bmpqT1k9EiRkZGE5ODJhNi05ZTU0LTRiYTAtYmVmMy05M2YyYWQ5ZGJkODUYACAAKAAwtJzKsdsxOKKfyrHbMUCin8qx2zFKHGVhR1NIeDdaa1lpanVPY2JRS1BEQzd3dlVQVT1aIiIg////6i9HZk5UZENwckN0Z05NcE8xYnZSREltQnY4RT1l9Lo49sI+AmAFEq4BCAwSqQEKHDI2WXBiSDBJd0N2MjJjVEVTaXF3SnVsVkp0MD0SJDUxNDQzNzliLTgyYzYtNDFiNS05MmJkLWI2YjY5MjAxYWU4YxgAIAAoADDS1pnb9DA4hNeZ2/QwQITXmdv0MEocVDBlclRaUzlxY1lodFUxY281ejJTMG9IR0tjPVogIh7//kNxUVA2T0lvbFlGUXRZK1pwdndiVkFVdEFuTT1lC/Sed8I+AmAFEq4BCAoSqQEKHCtmYndrdGU2d1R6MkQyS1l1bHlHV3JETC9MUT0SJGY4YmNiMzRmLTM3ZjctNGQwYy04MDYyLWY5YmZiZDk2OTAyNBgAIAAoADCu2/fU9DA41Nv31PQwQNTb99T0MEocKzJXdExzMmFUY0dUN24xNElWQ1A2STliclpzPVogIh7/+zNMY2FpeXltODd6eVFaaUMxNnRXanUxejg4UT1lC/Sed8I+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDkyNDgxOTAzLThlNTEtNTk5MS04Mjc5LTI5NGI2MTYyZTdhNBgAIAAoADDql9yZsDA4vI3D+OsvQLyNw/jrL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKuAQgLEqkBChw5VHNialNuNG0vNmx3d0lYeGFFV3BHLzdLVUk9EiQ4YWU0Y2NkNi0wMjQyLTRkNjMtOTNhMC02MDZmZmZjMjYzN2EYACAAKAAwi7eC1fQwOLC3gtX0MECwt4LV9DBKHE82UnNzYTRwZXhkMHpVbHJNbzBNYjZsSkk4QT1aICIe//02TEpiMHdLcGVMZDJ1aGhCbEx1Q3dQaUNlZDg9Ze6yYBHCPgJgBRKtAQgIEqgBChxhWEpwQXdac0JILy9yQlR3VXl3R05iRU1jWU09EiQ3ZDQ0OWVkMy0yNmU3LTQxMzgtYWJjNC02YTdiY2NmOWZhZWIYACAAKAAw4tjdntwwOM3Z3Z7cMEDN2d2e3DBKHERZUm1US3dqSnBVaDRCWm5vNTY0S2pmRU1QZz1aHyId7zhVc3RrNFFSSVVDeTg0R0w0UDJoc2VFaGNmaz1lAAAAAMI+AmAFMAA4AA==",
+   "version": 1
+}

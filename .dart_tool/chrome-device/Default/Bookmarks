@@ -1,0 +1,205 @@
+{
+   "checksum": "4887303d1c4b4de9e79be34230b5e965",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13274655761553084",
+            "date_last_used": "0",
+            "guid": "443b1ed5-00c2-4fb1-9f3b-2cf956e219e8",
+            "id": "6",
+            "name": "LastPass password manager",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13316509441209777",
+            "date_last_used": "0",
+            "guid": "e0cf6e15-2c6e-43af-ad9f-6be4cb4f6b21",
+            "id": "7",
+            "name": "Web Development Course Resources | The App Brewery",
+            "type": "url",
+            "url": "https://www.appbrewery.co/p/web-development-course-resources/"
+         }, {
+            "date_added": "13318501547440601",
+            "date_last_used": "0",
+            "guid": "7d449ed3-26e7-4138-abc4-6a7bccf9faeb",
+            "id": "8",
+            "name": "To-Do-list App",
+            "type": "url",
+            "url": "https://delicate-arithmetic-ddd747.netlify.app/"
+         }, {
+            "date_added": "13319711476919200",
+            "date_last_used": "13348911556887587",
+            "guid": "ff5a1a42-0754-4b52-b723-ec607b974010",
+            "id": "9",
+            "name": "RYO IRAGO",
+            "type": "url",
+            "url": "https://ryo-irago.com/"
+         }, {
+            "date_added": "13325057681916888",
+            "date_last_used": "0",
+            "guid": "f8bcb34f-37f7-4d0c-8062-f9bfbd969024",
+            "id": "10",
+            "name": "UPPSC Syllabus 202Know the new UPPSC Syllabus | Dowbload PDF & Know UPPPCS Exam Pattern for 2023",
+            "type": "url",
+            "url": "https://byjus.com/free-ias-prep/uppsc-syllabus-pcs-exam-pattern/"
+         }, {
+            "date_added": "13325057857742487",
+            "date_last_used": "0",
+            "guid": "8ae4ccd6-0242-4d63-93a0-606fffc2637a",
+            "id": "11",
+            "name": "PPSC PCS Syllabus 2023: Important Topics, Books, Tips & More",
+            "type": "url",
+            "url": "https://testbook.com/punjab-civil-service-exam/syllabus"
+         }, {
+            "date_added": "13325070820898798",
+            "date_last_used": "0",
+            "guid": "5144379b-82c6-41b5-92bd-b6b69201ae8c",
+            "id": "12",
+            "name": "Medieval History of India [NCERT Notes] for UPSC Exam Preparation",
+            "type": "url",
+            "url": "https://byjus.com/free-ias-prep/ncert-medieval-history-notes-for-upsc-exams/"
+         }, {
+            "date_added": "13325135921132562",
+            "date_last_used": "0",
+            "guid": "2793f939-3f6d-4e32-a1db-ce9feada9cd9",
+            "id": "13",
+            "name": "Fall in love with these must-watch upcoming romance anime of April 2023",
+            "type": "url",
+            "url": "https://www.msn.com/en-in/entertainment/other/fall-in-love-with-these-must-watch-upcoming-romance-anime-of-april-2023/ar-AA19fxJY?ocid=msedgntp&cvid=25124d50436f4f67b30ed1b698a1fc92&ei=55"
+         }, {
+            "date_added": "13327565873995700",
+            "date_last_used": "0",
+            "guid": "14e87841-adfe-4b0c-86d9-a745edd06284",
+            "id": "14",
+            "name": "INTERNSHIP REPORT ON HR PRACTICES IN RENATA LIMITED | tareq hasan - Academia.edu",
+            "type": "url",
+            "url": "https://www.academia.edu/27280343/INTERNSHIP_REPORT_ON_HR_PRACTICES_IN_RENATA_LIMITED"
+         }, {
+            "date_added": "13327848313072456",
+            "date_last_used": "0",
+            "guid": "b3bd6cbc-e3df-4399-ae28-b9b006948895",
+            "id": "15",
+            "name": "Study Notes Portal",
+            "type": "url",
+            "url": "https://notes-app-real-time.netlify.app/"
+         }, {
+            "date_added": "13327848341850486",
+            "date_last_used": "13328638749002196",
+            "guid": "5b9d76fe-f5d7-4c07-b94a-81ca9972f1e6",
+            "id": "16",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13328178403782730",
+            "date_last_used": "0",
+            "guid": "273fecd3-9408-42f6-96c0-1d3fcb176a50",
+            "id": "17",
+            "name": "Internships Viva Schedule MAY-2023",
+            "type": "url",
+            "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeebnMUxvOG8zBOXxnEIAfGRfg9lbYFxhv8-UTVeNqBnS_uHw/formResponse"
+         }, {
+            "date_added": "13328627611511266",
+            "date_last_used": "0",
+            "guid": "e3b1dddd-c89a-4638-a05f-58a20d8f8e9c",
+            "id": "18",
+            "name": "Gerich Restaurant",
+            "type": "url",
+            "url": "https://gericht-restaurant-n.netlify.app/"
+         }, {
+            "date_added": "13332847177778774",
+            "date_last_used": "0",
+            "guid": "ded82dab-474d-4479-ab5c-fa447051bd4a",
+            "id": "19",
+            "name": "The 100 best nonfiction books of all time: the full list | Books | The Guardian",
+            "type": "url",
+            "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"
+         }, {
+            "date_added": "13332847414697968",
+            "date_last_used": "0",
+            "guid": "549f306c-e64a-4186-8370-b49b5340891f",
+            "id": "20",
+            "name": "Please Wait for few Moments",
+            "type": "url",
+            "url": "https://oceanofpdf.com/please-wait-for-few-moments-6/"
+         }, {
+            "date_added": "13333454626588902",
+            "date_last_used": "0",
+            "guid": "10461cba-0f88-49ac-8726-98b930be28d8",
+            "id": "21",
+            "name": "You searched for the power of - Page 2 of 146 - OceanofPDF",
+            "type": "url",
+            "url": "https://oceanofpdf.com/page/2/?s=the+power+of"
+         }, {
+            "date_added": "13334412119076014",
+            "date_last_used": "0",
+            "guid": "dba555e8-ab92-452a-91a4-f6f2969f25b0",
+            "id": "22",
+            "name": "Indian Polity Syllabus for UPSC Prelims & Mains - Download PDF!",
+            "type": "url",
+            "url": "https://testbook.com/ias-preparation/polity-syllabus-for-upsc"
+         }, {
+            "date_added": "13341921804619061",
+            "date_last_used": "0",
+            "guid": "1b90434f-cb5d-432d-b8a5-05b83b5c01bc",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Polity Syllabus For UPSC Prelims And Mains (with Micro Topics)",
+            "type": "url",
+            "url": "https://lotusarise.com/polity-syllabus-for-upsc/"
+         }, {
+            "date_added": "13352629220403754",
+            "date_last_used": "0",
+            "guid": "6e100580-bf85-460f-a1f8-633566aa8fe0",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download file – your conversion was successful",
+            "type": "url",
+            "url": "https://www.img2go.com/result#j=a3f3cd49-0bc5-4379-b723-38c3c3da2b1d"
+         }, {
+            "date_added": "13352632289375588",
+            "date_last_used": "0",
+            "guid": "dda982a6-9e54-4ba0-bef3-93f2ad9dbd85",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download file – your conversion was successful",
+            "type": "url",
+            "url": "https://www.img2go.com/result#j=e3f094d2-f751-4fcb-8fad-a25fc033fe70"
+         } ],
+         "date_added": "13377249833089968",
+         "date_last_used": "0",
+         "date_modified": "13352632289375588",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13377249833089971",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13377249833089973",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
