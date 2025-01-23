@@ -28,7 +28,7 @@ class MainApp extends StatelessWidget {
   var baseTheme = ThemeData(brightness: brightness);
 
   return baseTheme.copyWith(
-    
+    scaffoldBackgroundColor: Colors.white,
     textTheme: GoogleFonts.urbanistTextTheme(baseTheme.textTheme),
   );
 }

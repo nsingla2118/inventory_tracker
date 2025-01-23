@@ -34,7 +34,7 @@ class _HomePageState extends State<HomePage> {
     
     const StockPage(),
 
-    const BillPage(title: '',),
+    const BillPage(),
   ];
 
   @override

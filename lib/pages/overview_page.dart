@@ -24,7 +24,7 @@ class OverviewPage extends StatelessWidget {
         padding: EdgeInsets.all(10.0),
         child: Column(
           children: [
-            Text("Delivery is being tracked", style: TextStyle(fontSize: 42),),
+            Text("Scan Your Code", style: TextStyle(fontSize: 42),),
             SizedBox(height: 25,),
            
             
